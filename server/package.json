@@ -14,7 +14,11 @@
     "cors": "^2.8.5",
     "dotenv": "^16.0.0",
     "express": "^4.17.3",
+    "index.js": "^0.0.3",
+    "mongod": "^2.0.0",
     "mongodb": "^4.4.1",
+    "mongoose": "^6.2.8",
+    "node": "^17.7.1",
     "react-router-dom": "^6.2.2"
   }
 }
